@@ -1,4 +1,15 @@
 body{
     background-color: rgb(255, 0, 0);
-    color: rgb(5, 93, 255);
+    color: rgb(0, 0, 0);
+}
+header{
+    background-color:#8C1010;
+    color: #EAF6AD;
+}
+<main>{
+    background-color: aqua;
+}
+footer{
+    background-color: #0E2DAD;
+    color:#EAF6AD;
 }
