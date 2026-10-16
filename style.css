@@ -7,8 +7,8 @@
     --cor-superficie: #000000;
     --cor-card: #555555;
     --cor-legenda: #555555;
-    --cor-clara: green;
-    --cor-rodape: red;
+    --cor-clara: #fff7f7;
+    --cor-rodape: black;
 }
 
 body {
