@@ -119,3 +119,10 @@ display: block;
 width: fit-content;
 margin: 20px auto;
 }
+
+.galeria {
+    diaplay: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
